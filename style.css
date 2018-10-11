@@ -8,7 +8,7 @@
 	margin-top: 8%;
 	width: 600px;
 	height: 420px;
-	background: none;
+	background: #779EF8;
 }
 .head{
 	position: absolute;
@@ -18,7 +18,6 @@
 	height: 67%;
 	background: #F8A6C3;
 	border-radius: 50%;
-	border: solid 2px pink;
 }
 .head-copy{
 	width: 100%;
